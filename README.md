@@ -49,7 +49,7 @@ Each contains trip data for one year from June 2025.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/abbas-24/smart-train-finder.git
+git clone --branch dev https://github.com/abbas-24/smart-train-finder.git
 cd smart-train-finder
 ```
 
